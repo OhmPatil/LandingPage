@@ -50,6 +50,7 @@
 
 /* ------------------FIRST SECTION ENDS--------------- */
 
+/* ------------------SOME GLOBAL STUFF------------------- */
 #title {
   font-size: 48px;
   font-weight: bolder;
@@ -170,4 +171,11 @@ input[type=button] {
     padding: 10px;
     margin-left: 100px;
     margin-right: 100px;
+}
+/* ------------------------FOURTH SECTION ENDS---------------------- */
+
+/* ------------------------FOOTER SECTION--------------------------- */
+
+.section.footer {
+    padding: 20px;
 }
