@@ -57,7 +57,7 @@
   font-family: sans-serif;
 }
 
-input[type=button] {
+button {
     background-color: #3882f6;
     color: white;
     border: 2px solid white;
